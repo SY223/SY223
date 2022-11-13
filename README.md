@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Solomon
-- 👀 I’m interested in backend web development 
+- 👀 I’m passionate about backend web development 
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on projects related to backend
 - 📫 You can reach me on slack @sy223
