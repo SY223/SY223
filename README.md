@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SY223
 - 👀 I’m passionate about backend web development 
-- 🌱 I’m currently learning Python, Django, DjangoRestFramework, SQL, 
+- 🌱 I’m currently learning Python, Django, DjangoRestFramework, and SQL
 - 💞️ I’m looking to collaborate on projects related to Software Engineering
 - 📫 You can reach me on slack @sy223
 
