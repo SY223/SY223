@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Solomon
+- 👋 Hi, I’m SY223
 - 👀 I’m passionate about backend web development 
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on projects related to backend
