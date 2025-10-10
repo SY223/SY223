@@ -30,7 +30,7 @@ I create and contribute to:
 
 ---
 
-✨ *I believe in continuous learning, professional polish, and using technology to make financial systems more transparent and efficient.*  
+✨ *I believe in continuous learning, continuous innovation, and using technology to make financial systems more transparent and efficient.*  
 
 <!---
 SY223/SY223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
