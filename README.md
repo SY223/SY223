@@ -9,7 +9,7 @@
 
 I'm **Solomon (SY223)** — an aspiring **Audit & Assurance professional** and **Software Engineer** with a strong foundation in **Accounting, Financial Technology, and Backend Engineering**.  
 
-I am passionate about bridging the gap between **finance and technology**: building tools that improve reporting accuracy, automating workflows, and documenting processes so others can learn and build faster. Alongside my technical journey, I also enjoy **technical writing** — turning complex ideas into clear, actionable knowledge.  
+I am passionate about bridging the gap between **finance and technology**: building tools that improve reporting accuracy, automating workflows, and documenting processes so others can learn and build faster. Alongside my technical journey, I also enjoy **technical writing**, turning complex ideas into clear, actionable knowledge.  
 
 I create and contribute to:
 - 🧾 **Audit & FinTech projects** (automation, compliance, reporting)  
